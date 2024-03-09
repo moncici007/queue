@@ -1,0 +1,26 @@
+{
+  "name": "@moncici/queue",
+  "version": "1.0.0",
+  "description": "queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moncici007/queue"
+  },
+  "website": "https://github.com/moncici007/queue.git",
+  "keywords": [
+    "queue"
+  ],
+  "author": "moncici007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moncici007/queue/issues"
+  },
+  "homepage": "https://github.com/moncici007/queue#readme",
+  "dependencies": {
+  },
+  "type": "module"
+}
