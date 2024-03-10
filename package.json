@@ -22,5 +22,9 @@
   "homepage": "https://github.com/moncici007/queue#readme",
   "dependencies": {
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "type": "module"
 }
